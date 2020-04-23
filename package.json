@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/qaseleniumtesting01/GithubScannerNPM2#readme",
   "dependencies": {
-    "js-yaml": "^3.7.0"
+    "js-yaml": "^3.13.1"
   }
 }

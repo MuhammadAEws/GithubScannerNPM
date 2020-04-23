@@ -1,0 +1,22 @@
+{
+  "name": "githubscannernpm",
+  "version": "1.0.0",
+  "description": "Testing Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qaseleniumtesting01/GithubScannerNPM2.git"
+  },
+  "author": "Muhammad Abu Elula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qaseleniumtesting01/GithubScannerNPM2/issues"
+  },
+  "homepage": "https://github.com/qaseleniumtesting01/GithubScannerNPM2#readme",
+  "dependencies": {
+    "js-yaml": "^3.7.0"
+  }
+}
